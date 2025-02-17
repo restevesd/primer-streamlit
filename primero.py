@@ -12,7 +12,7 @@ st.header("Vamos a poner un modelo en producción usando streamlit")
 
 st.subheader("Esto está muy emocionante")
 
-st.text('Esto es un texto')
+st.text('Esto es un texto de prueba')
 
 st.metric(label="Temperature", value="70 °F", delta="1.2 °F")
 
